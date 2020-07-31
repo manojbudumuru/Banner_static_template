@@ -1,0 +1,1 @@
+# Banner_static_template
